@@ -38,6 +38,10 @@
   gap: 4px 12px;
 }
 
+.bicicleta-comprar {
+  margin-bottom: 40px;
+}
+
 .bicicleta-comprar a {
   grid-row: span 2;
 }
